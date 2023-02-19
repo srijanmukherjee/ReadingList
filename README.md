@@ -9,3 +9,6 @@
 ## Design Paterns
 - [refactoring.guru](https://refactoring.guru/)
 - [https://cs.lmu.edu/~ray/notes/designpatterns/](https://cs.lmu.edu/~ray/notes/designpatterns/)
+
+## Computer Architecture
+- [CA book list](https://pages.cs.wisc.edu/~arch/www/books.html)
