@@ -7,6 +7,9 @@
 
 ## Competetive Programming
 
+- [cp-algorithms.com](https://cp-algorithms.com/)
+
+### Platforms
 - [CSES](https://cses.fi/problemset/)
 - [Spoj](https://www.spoj.com/)
 - [Leetcode](https://leetcode.com/problemset/all/)
