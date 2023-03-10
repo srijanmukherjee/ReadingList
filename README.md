@@ -5,6 +5,9 @@
 
 # Websites
 
+- [Algorithms (algs4)](https://algs4.cs.princeton.edu/home/)
+
+
 ## Competetive Programming
 
 - [cp-algorithms.com](https://cp-algorithms.com/)
@@ -27,3 +30,4 @@
 # Youtube Channels
 
 - [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
+
