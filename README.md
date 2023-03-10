@@ -27,6 +27,10 @@
 ## Computer Architecture
 - [CA book list](https://pages.cs.wisc.edu/~arch/www/books.html)
 
+## JAVA
+
+- [dev.java](https://dev.java/learn/) 
+
 # Youtube Channels
 
 - [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
