@@ -6,6 +6,7 @@
 # Websites
 
 - [Algorithms (algs4)](https://algs4.cs.princeton.edu/home/)
+- [Typescript Challenges](https://github.com/type-challenges/type-challenges)
 
 
 ## Competetive Programming
@@ -19,6 +20,7 @@
 - [Codechef](https://www.codechef.com/)
 - [Codeforces](https://codeforces.com/)
 - [Atcoder](https://atcoder.jp/)
+- [USACO Guide](https://usaco.guide/problems/)
 
 ## Design Paterns
 - [refactoring.guru](https://refactoring.guru/)
@@ -34,4 +36,8 @@
 # Youtube Channels
 
 - [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
+- [Tsoding Daily](https://www.youtube.com/@TsodingDaily)
 
+# Lectures
+
+- [CS4414: Systems Programming (Spring 2023)](https://www.cs.cornell.edu/courses/cs4414/2023sp/)
