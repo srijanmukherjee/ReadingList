@@ -43,7 +43,7 @@
 
 - [CS4414: Systems Programming (Spring 2023)](https://www.cs.cornell.edu/courses/cs4414/2023sp/)
 
-# Mischttps://web.eecs.umich.edu/~pettie/matching/Cheriyan-Mehlhorn-dense-bipartite-matching-on-RAM.pdf
+# Misc
 
 - [Baeldung.com](https://www.baeldung.com/cs/)
 - [algs4.cs.princeton.edu](https://algs4.cs.princeton.edu/home/)
