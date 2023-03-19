@@ -2,6 +2,7 @@
 
 - [ ] [pwm.college - Kernel Security](https://www.youtube.com/watch?v=j0I2AakUAxk&list=PL-ymxv0nOtqowTpJEW4XTiGQYx6iwa6og)
 - [ ] [Seccomp Security Profiles and You: A Practical Guide - Duffie Cooley, VMware](https://www.youtube.com/watch?v=OPuu8wsu2Zc)
+- [ ] [Cheriyan-Mehlhorn algorithm for finding strongly connected components](https://web.eecs.umich.edu/~pettie/matching/Cheriyan-Mehlhorn-dense-bipartite-matching-on-RAM.pdf)
 
 # Websites
 
@@ -41,3 +42,8 @@
 # Lectures
 
 - [CS4414: Systems Programming (Spring 2023)](https://www.cs.cornell.edu/courses/cs4414/2023sp/)
+
+# Mischttps://web.eecs.umich.edu/~pettie/matching/Cheriyan-Mehlhorn-dense-bipartite-matching-on-RAM.pdf
+
+- [Baeldung.com](https://www.baeldung.com/cs/)
+- [algs4.cs.princeton.edu](https://algs4.cs.princeton.edu/home/)
