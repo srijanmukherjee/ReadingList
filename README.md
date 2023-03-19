@@ -8,7 +8,7 @@
 
 - [Algorithms (algs4)](https://algs4.cs.princeton.edu/home/)
 - [Typescript Challenges](https://github.com/type-challenges/type-challenges)
-
+- [Baeldung.com](https://www.baeldung.com/cs/)
 
 ## Competetive Programming
 
@@ -42,8 +42,3 @@
 # Lectures
 
 - [CS4414: Systems Programming (Spring 2023)](https://www.cs.cornell.edu/courses/cs4414/2023sp/)
-
-# Misc
-
-- [Baeldung.com](https://www.baeldung.com/cs/)
-- [algs4.cs.princeton.edu](https://algs4.cs.princeton.edu/home/)
