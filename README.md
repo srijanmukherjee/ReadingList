@@ -38,6 +38,7 @@
 
 - [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
 - [Tsoding Daily](https://www.youtube.com/@TsodingDaily)
+- [Java Brains](https://www.youtube.com/@Java.Brains)
 
 # Lectures
 
