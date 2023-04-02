@@ -9,6 +9,7 @@
 - [Algorithms (algs4)](https://algs4.cs.princeton.edu/home/)
 - [Typescript Challenges](https://github.com/type-challenges/type-challenges)
 - [Baeldung.com](https://www.baeldung.com/cs/)
+- [Linux Device Driver Book](https://lwn.net/Kernel/LDD3/)
 
 ## Competetive Programming
 
